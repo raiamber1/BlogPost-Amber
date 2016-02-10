@@ -1,0 +1,9 @@
+{
+  "firebase": "blogpost-amber",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
